@@ -1,0 +1,4 @@
+baseURL = 'https://a-profitble-playground.onrender.com'
+languageCode = 'en-us'
+title = 'My Neww Hugo Site'
+theme = 'ananke'
